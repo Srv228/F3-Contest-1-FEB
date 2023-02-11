@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.container-flow i{
+    font-size: 2rem;
+}
+
+.nav-buttons a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.10rem;
+    font-weight:lighter;
+    margin: 5px;
+}
+
+.nav-buttons:hover, a:hover{
+    color: purple !important
+}
+
+.navText{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+
+#justText{
+    text-align: center;
+}
